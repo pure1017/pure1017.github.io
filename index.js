@@ -1,7 +1,7 @@
 CLASSES = {
-  0: 'class0',
-  1: 'class1',
-  2: 'class2'
+  0: 'alma_mater',
+  1: 'butler_library',
+  2: 'low_library'
 };
 
 const MODEL_PATH =
